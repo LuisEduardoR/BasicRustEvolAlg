@@ -1,0 +1,8 @@
+[package]
+name = "evolutionary_alg"
+version = "0.1.0"
+authors = ["Luis Eduardo Rozante de Freitas Pereira <luis.eduardo.rozante@gmail.com>"]
+
+[dependencies]
+
+rand = "0.4.0"
